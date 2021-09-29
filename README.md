@@ -1,4 +1,4 @@
-## SoftwareDevelopment2-CW Year 1 Semester 2
+## SoftwareDevelopment2 CW Year 1 Semester 2
 
 ### This repository contains the files of the course work for Software Development 2 module
 
